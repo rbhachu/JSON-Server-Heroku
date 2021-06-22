@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/gelstudios/gitfiti.svg?branch=master)](https://github.com/rbhachu/JSON-Server-Heroku) [![Heroku](https://heroku-badge.herokuapp.com/?app=rbhachu-json-server-heroku)](https://github.com/rbhachu/JSON-Server-Heroku)
 
 
-<h1 align="center">JSON Server<br>(Back-End API REST Server for The Mojo Blog)</h1>
+<h1 align="center">JSON Server<br>(Back-End REST API Server for The Mojo Blog)</h1>
 <br>
 
 
