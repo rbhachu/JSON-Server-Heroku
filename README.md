@@ -13,9 +13,7 @@ Requires The Mojo Blog Front-End Client, please see repo for full details; https
 
 ## Dependencies/NPM Modules
 [JSON Server v0.16.3 *](https://www.npmjs.com/package/json-server) - Creates a JSON REST API Server
-<i>
-* Installed automatically<br>
-</i>
+<br>* _Installed automatically_<br>
 <br><br>
 
 
